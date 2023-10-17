@@ -8,7 +8,7 @@ This Chess Game follows the standard rules of chess. You can find comprehensive 
 ## User Interface
 The user interface of the Chess Game is designed using Java Swing, providing an interactive and user-friendly experience. Here are some key features of the interface:
 - A chessboard with 64 squares.
-- Player names and a message area to display game status.
+- A message area to display game status.
 - Pieces captured by each player.
 - Option to restart the game.
 - Highlighted legal moves for the selected piece.

@@ -1,5 +1,3 @@
-package org.cis1200.chess;
-
 import javax.swing.*;
 import java.awt.*;
 

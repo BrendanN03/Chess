@@ -1,5 +1,3 @@
-package org.cis1200.chess;
-
 /**
  * This class is a model for Chess
  * This game adheres to a Model-View-Controller design framework.

@@ -1,5 +1,3 @@
-package org.cis1200.chess;
-
 import java.awt.*;
 public class KnightPiece implements GamePiece {
     private boolean isWhite;

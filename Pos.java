@@ -1,5 +1,3 @@
-package org.cis1200.chess;
-
 public class Pos {
     private int r;
     private int c;
